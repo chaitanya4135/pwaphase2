@@ -1,0 +1,47 @@
+body{
+
+  background-color:#A9DCDF;
+  text-align: center;
+}
+
+header{
+
+  font-style:oblique;
+  background:#C3B930;
+  font-weight: 40px;
+
+}
+a{
+
+  float: right;
+}
+img{
+
+float:right;
+  width: 110px;
+  height:110px;
+}
+.child {
+width:20%;;
+padding:1%;
+margin:5%;
+border-radius: 3px solid lightblue;
+text-align: center;
+display: block;
+/* background: lightpink */
+justify-content: space-around;
+}
+.child img{
+  float:left;
+width:50%;
+height:20%;
+border: 3px solid pink;
+
+
+}
+.link{
+text-decoration: none;
+background-color: green;
+color:black;
+
+}

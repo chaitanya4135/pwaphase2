@@ -1,0 +1,44 @@
+body{
+
+background: lightblue;
+text-align: center;
+}
+.parent{
+  width: 100%;
+  border:2px solid black;
+  display: flex;
+  flex-wrap: wrap;
+}
+.career,.skills{
+
+  width:90%;
+  border:2px solid black;
+  background:lightgreen;
+  margin:2%;
+  padding:3%;
+  text-align: center;
+}
+.details{
+
+  width:40%;
+  margin:2%;
+  padding:2%;
+  text-align: center;
+  background:lightpink;
+  border:2px SOLID black;
+}
+
+button{
+  margin:2%;
+  padding:2%;
+font-style:italic;
+font-weight:bold;
+text-align: center;
+
+}
+input,select{
+
+  width:400px;
+  margin: 2%;
+
+}
