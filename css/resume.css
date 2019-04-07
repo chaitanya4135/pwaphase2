@@ -36,6 +36,7 @@ table{
 width:80;
 font-size:200%;
 margin:2%;
+    background-size: cover;
 padding: 2%;
 }
 table,th,td,tr {
