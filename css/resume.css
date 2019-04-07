@@ -33,6 +33,10 @@ padding: 2%;
 table{
 
   border: 2px solid white;
+width:80;
+font-size:200%;
+margin:2%;
+padding: 2%;
 }
 table,th,td,tr {
   text-align: center;
